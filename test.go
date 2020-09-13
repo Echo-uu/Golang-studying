@@ -141,3 +141,9 @@ func flowControl(){
 		fmt.Printf("index=%d, val=%c \n",index,val)
 	}
 }
+
+
+func testBranch(){
+	fmt.Println("test branch")
+}
+
