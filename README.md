@@ -1,3 +1,2 @@
-# Golang-studying
-Golang语法学习
-test
+# Note
+课程笔记
